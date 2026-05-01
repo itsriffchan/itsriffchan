@@ -23,7 +23,7 @@ I'm Reese, a Computer Science student specializing in Data Science
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ### Major Projects
-- [Ano Tara?](https://ano-tara-ochre.vercel.app/) - A smart food picker randomizer based on the `ano, tara?` meme
+- [Ano Tara?](https://github.com/itsriffchan/ano-tara) - A smart food picker randomizer based on the `ano, tara?` meme
 ### Minor Projects
 - 2D prototype platformer game using Godot
 - Local Chatbot using RAG and Ollama
