@@ -4,7 +4,7 @@ I'm Reese, a Computer Science student specializing in Data Science
 
 - 🔭 I’m currently working on random stuff I enjoy
 - 🌱 I’m currently learning backend development and networking fundamentals
-- 🚀 Fun fact: I'm a space enthusiast 🌌
+- 🚀 Fun fact: I'm a space enthusiast 🌌 and a Pokémon fan 🦉
 
 ### Languages:
 
@@ -24,6 +24,8 @@ I'm Reese, a Computer Science student specializing in Data Science
 
 ### Major Projects
 - [Ano Tara?](https://github.com/itsriffchan/ano-tara) - A smart food picker randomizer based on the `ano, tara?` meme
+- [Solar GWA Calculator](https://github.com/itsriffchan/solar-gwa-calculator) - A simple browser extension to calculate GWA in the SOLAR portal
+
 ### Minor Projects
 - 2D prototype platformer game using Godot
 - Local Chatbot using RAG and Ollama
