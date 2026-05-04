@@ -33,6 +33,6 @@ I'm Reese, a Computer Science student specializing in Data Science
 ### Connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reese-chan/)
-
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ReeseC.Chan/)
 
 
