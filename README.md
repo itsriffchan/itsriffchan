@@ -13,10 +13,6 @@ I'm Reese, a Computer Science student specializing in Data Science
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
 
-### Frameworks:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
-
 ### Libraries / Tools:
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -25,6 +21,7 @@ I'm Reese, a Computer Science student specializing in Data Science
 ### Major Projects
 - [Ano Tara?](https://github.com/itsriffchan/ano-tara) - A smart food picker randomizer based on the `ano, tara?` meme
 - [Solar GWA Calculator](https://github.com/itsriffchan/solar-gwa-calculator) - A simple browser extension to calculate GWA in the SOLAR portal
+- [Canvas Pulse](https://github.com/itsriffchan/canvas-pulse) - A Chrome extension that brings your Canvas deadlines and tasks to an easy-to-read sidebar
 
 ### Minor Projects
 - 2D prototype platformer game using Godot
