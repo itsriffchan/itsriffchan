@@ -3,7 +3,7 @@
 I'm Reese, a Computer Science student specializing in Data Science
 
 - 🔭 I’m currently working on random stuff I enjoy
-- 🌱 I’m currently learning machine learning and statistical techniques for data presentation!
+- 🌱 I’m currently learning uhhhhhhhhhhhhhhh
 - 🚀 Fun fact: I'm a space enthusiast 🌌 and a Pokémon fan 🦉
 
 ### Languages:
